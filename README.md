@@ -1,2 +1,2 @@
 # Texto-e-Imagen
-Trabajoprueba de maquetacion
+Trabajo prueba de maquetacion
